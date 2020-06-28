@@ -3,7 +3,7 @@
 	"displayName": "Daybreak Theme",
 	"description": "Simple dark theme",
 	"version": "1.0.0",
-	"publisher": "Ysss",
+	"publisher": "Y-Ysss",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.13.0"
