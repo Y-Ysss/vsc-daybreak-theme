@@ -1,0 +1,28 @@
+{
+	"name": "vscode-daybreak-theme",
+	"displayName": "Daybreak Theme",
+	"description": "Simple dark theme",
+	"version": "1.0.0",
+	"publisher": "Ysss",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+    "categories": [
+        "Themes"
+    ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Y-Ysss/vscode-daybreak-theme.git"
+	},
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Daybreak",
+				"uiTheme": "vs-dark",
+				"path": "./themes/daybreak-color-theme.json"
+			}
+		]
+	}
+}
