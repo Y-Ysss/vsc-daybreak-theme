@@ -5,11 +5,11 @@
   </a><br>
     Daybreak Theme
 </h1>
-
+<p align="center">Daybreak Theme, the simple dark theme for Visual Studio Code.</p>
 <h2>Screenshot</h2>
 <img src="./Screenshot.png" alt="screenshot">
 
-<h2>Recommended Extensions, Fonts</h2>
+<h2>Recommended Extension, Fonts</h2>
 
 I highly recommend the following extensions to more beautiful look:
 - <a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme (Visual Studio Marketplace)</a>
