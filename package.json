@@ -2,7 +2,7 @@
 	"name": "vscode-daybreak-theme",
 	"displayName": "Daybreak Theme",
 	"description": "Daybreak Theme, the simple dark theme for Visual Studio Code.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"publisher": "Y-Ysss",
 	"license": "MIT",
 	"engines": {
