@@ -19,5 +19,14 @@ I highly recommend the following fonts:
 - <a href="https://github.com/adobe-fonts/source-code-pro">(En) Source Code Pro</a>
 - <a href="https://github.com/adobe-fonts/source-han-code-jp">(Ja) Source Han Code (源ノ角ゴシック Code)</a>
 
+## Install
+
+[Visual Studio Marketplace - Daybreak Theme](https://marketplace.visualstudio.com/items?itemName=Y-Ysss.vscode-daybreak-theme)
+
+## Requests or Issues
+If you have any requests or complaints, please start an Issue or PullRequest on GitHub.
+
+[GitHub - Y-Ysss/vscode-daybreak-theme](https://github.com/Y-Ysss/vscode-daybreak-theme)
+
 ## License
-MIT License
+MIT License Copyright (c) 2020 Y-Ysss
